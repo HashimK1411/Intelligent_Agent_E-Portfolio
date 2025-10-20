@@ -15,7 +15,7 @@ I implemented a short dialogue between **Alice** (procurement) and **Bob** (ware
 - **Testable pairs:** compact **ask-one / tell** exchanges validate messaging and KB consistency.
 
 ## Evidence (Artefacts)
-- [Click here to see python code](../Act_1.py)
+- [Click here to see python code](./Act_1.py)
 
 
 # Activity 2 — Constituency Parse Trees
