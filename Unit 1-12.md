@@ -11,6 +11,9 @@ We examined why Agent‑Based Systems (ABS) rose alongside organisational comple
 ###  Reflection  
 I now see ABS as powerful but conditional: value depends on disciplined specification, validation, and—in some contexts—hybridisation. Governance and explainability matter as autonomy grows (Cardoso and Ferrando, 2021; Cannavacciuolo et al., 2024).
 
+
+See [References.md](./References.md) for a complete list of sources used throughout these reflections.
+
 ---
 
 ## Units 5–7: Forum Reflection – Agent Communication (KQML, KIF) & Practice
@@ -25,6 +28,9 @@ We contrasted method invocation with intent‑centric dialogue in Agent Communic
 
 ###  Reflection  
 I moved from viewing ACLs as theoretical to seeing them as socio‑technical: semantics plus engineered ontologies for stability, learning for adaptability, and explicit commitments for accountability (Wooldridge, 2009; Gómez‑Pérez, Fernández‑López and Corcho, 2020).
+
+
+See [References.md](./References.md) for a complete list of sources used throughout these reflections.
 
 ---
 
