@@ -1,0 +1,23 @@
+; Sentence: The government raised interest rates.
+(S
+  (NP (DT The) (NN government))
+  (VP (VBD raised)
+      (NP (NN interest) (NNS rates)))
+)
+
+; Sentence: The internet gives everyone a voice.
+(S
+  (NP (DT The) (NN internet))
+  (VP (VBZ gives)
+      (NP (NN everyone))
+      (NP (DT a) (NN voice)))
+)
+
+; Sentence: The man saw the dog with the telescope.  (PP attaches to VP 'saw')
+(S
+  (NP (DT The) (NN man))
+  (VP (VBD saw)
+      (NP (DT the) (NN dog))
+      (PP (IN with)
+          (NP (DT the) (NN telescope))))
+)
